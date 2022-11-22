@@ -1,5 +1,6 @@
 # Minimal makefile for Sphinx documentation
 # STUFF
+# STUFF
 #
 
 # You can set these variables from the command line.
