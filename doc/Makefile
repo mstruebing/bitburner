@@ -1,8 +1,9 @@
 # Minimal makefile for Sphinx documentation
+# STUFF
 #
 
 # You can set these variables from the command line.
-SPHINXOPTS    = 
+SPHINXOPTS    =
 SPHINXBUILD   = python2.7 -msphinx
 SOURCEDIR     = source
 BUILDDIR      = build
